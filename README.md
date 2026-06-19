@@ -1,0 +1,1 @@
+CNN trained on the MNIST dataset with a Streamlit dashboard that allows users to draw handwritten digits and receive predictions with confidence scores.
